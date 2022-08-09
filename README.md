@@ -32,3 +32,7 @@ namespace HelloWorld
 >>Das sind deine Waffen für den ersten Level
 >
 >zurück zum ersten Level
+
+*    Maschinengewehr
+*    Sniper
+*    Gewehr
