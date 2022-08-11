@@ -3,7 +3,7 @@
 [lol](https://www.youtube.com/)
 
 ![image](https://user-images.githubusercontent.com/110892641/183600341-2f971747-407d-48af-97c3-c546ad8d8cad.png)
-`Bregenzerwald` ist eine Varaible.
+`Bregenzerwald` ist eine Variable.
 
 ![eIN-EcHtEr-BeN](https://user-images.githubusercontent.com/110892641/184071409-849f62a0-92d4-446f-9c5d-4de8f8977ba6.jpg)
 
