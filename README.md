@@ -26,7 +26,7 @@ namespace HelloWorld
 
 | Training 1 | Training 2 |
 | --- | --- | 
-| Content 1 | Content 2 | 
+| Kondition 1 | Kondition 2 | 
 |Filip      |Drazen     |
 |10 Minuten |10 Minuten |
 
