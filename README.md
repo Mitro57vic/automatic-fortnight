@@ -24,7 +24,7 @@ namespace HelloWorld
 }
 ```
 
-| Header 1 | Header2 |
+| Training 1 | Training 2 |
 | --- | --- | 
 | Content 1 | Content 2 | 
 |Filip      |Drazen     |
