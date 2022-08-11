@@ -30,9 +30,9 @@ namespace HelloWorld
 |Filip      |Drazen     |
 |10 Minuten |10 Minuten |
 
->Du bist auf dem ersten Level
+>[Du bist auf dem ersten Level](https://www.google.ch/search?q=No+bitches&dcr=0&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjrm8OHp775AhUki_0HHbJcBygQ_AUoAXoECAEQAw&biw=1707&bih=841&dpr=2.25#imgrc=MiWotNaf5Nmp1M)
 >
->>Das sind deine Waffen für den ersten Level
+>>[Das sind deine Waffen für den ersten Level](https://www.google.ch/search?q=Fortnite+graue+Inventar&dcr=0&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjhtfqzp775AhXXnf0HHTiaAFMQ_AUoAXoECAEQAw&biw=1707&bih=841&dpr=2.25#imgrc=3VXxofXYKFzwcM&imgdii=yydvcq6lOk8xvM)
 >
 >zurück zum ersten Level
 
