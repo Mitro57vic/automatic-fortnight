@@ -51,5 +51,8 @@ namespace HelloWorld
 `Choose your character`
 *    Jay Cutler
 *    Ronnie Coleman
-
+*    Chris Bumstead
+*    Eddie Hall
+*    Markus Rühl
+*    Filip Mitrovic
 
