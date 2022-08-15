@@ -56,3 +56,9 @@ namespace HelloWorld
 *    [Markus Rühl](https://www.google.ch/search?q=arkus+R%C3%BChl&tbm=isch&ved=2ahUKEwje8I-5nb75AhWzhM4BHdSMCbQQ2-cCegQIABAA&oq=arkus+R%C3%BChl&gs_lcp=CgNpbWcQAzIGCAAQChAYOgoIABCxAxCDARBDOgQIABBDOgUIABCABDoICAAQsQMQgwE6CAgAEIAEELEDOgcIABCxAxBDOgQIABAKOgQIABATOgYIABAeEBM6CAgAEB4QBRATOggIABAeEAgQE1CHC1jSK2DPMGgAcAB4AIABtgaIAdYWkgENMC43LjEuMS4wLjEuMZgBAKABAaoBC2d3cy13aXotaW1nsAEAwAEB&sclient=img&ei=Dqv0Yt6xNrOJur4P1JmmoAs&bih=841&biw=1707#imgrc=ZiRipcSu5GIlTM)
 *    [Sigma Thaddeus](https://www.google.ch/search?q=thaddeus+spongebob&tbm=isch&hl=de&sa=X&ved=2ahUKEwiyvNLsnb75AhUEehoKHQglC0EQrNwCKAB6BQgBEPMB&biw=1690&bih=841#imgrc=xCTQzb9yvjEUqM)
 
+| Push | Pull |
+| --- | --- | 
+| Sätze:4 | Sätze:3-4 | 
+|Bench press, butterflies am kabel von allen winkeln, schulterdrücke,       |Latzug, Rudern, T-bar Rudern,bicep curls, hammer curls, langhantel curls|
+|1-2 Stunden |1-2 Stunden |
+
